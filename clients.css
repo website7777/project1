@@ -1,0 +1,225 @@
+.1_3 { 
+	overflow:hidden;
+}.e1_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1520px;
+	height:807px;
+	position:absolute;
+}.e1_4 { 
+	width:1520px;
+	height:807px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/clients_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e1_5 { 
+	background-color:rgba(255, 193.00000369548798, 85.0000025331974, 1);
+	width:213px;
+	height:20px;
+	position:absolute;
+	left:652px;
+	top:123px;
+}.e1_6 { 
+	color:rgba(0, 0, 0, 1);
+	width:213px;
+	height:20px;
+	position:absolute;
+	left:652px;
+	top:119px;
+	font-family:Inter;
+	text-align:center;
+	font-size:22px;
+	letter-spacing:0;
+}.e1_7 { 
+	background-color:rgba(255, 193.00000369548798, 85.0000025331974, 1);
+	width:339px;
+	height:15px;
+	position:absolute;
+	left:589px;
+	top:151px;
+}.e1_8 { 
+	color:rgba(0, 0, 0, 1);
+	width:342px;
+	height:15px;
+	position:absolute;
+	left:586px;
+	top:149px;
+	font-family:Inter;
+	text-align:center;
+	font-size:13px;
+	letter-spacing:0;
+}.e1_9 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:308px;
+	height:94px;
+	position:absolute;
+	left:399px;
+	top:262px;
+}.e1_10 { 
+	color:rgba(0, 0, 0, 1);
+	width:309px;
+	height:94px;
+	position:absolute;
+	left:398px;
+	top:262px;
+	font-family:Inter;
+	text-align:center;
+	font-size:13.850000381469727px;
+	letter-spacing:0;
+}.e1_12 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:227px;
+	height:13px;
+	position:absolute;
+	left:400px;
+	top:375px;
+}.e1_13 { 
+	color:rgba(248.0000004172325, 163.00000548362732, 121.00000038743019, 1);
+	width:227px;
+	height:12px;
+	position:absolute;
+	left:400px;
+	top:374px;
+	font-family:Inter;
+	text-align:center;
+	font-size:11px;
+	letter-spacing:0;
+}.e2_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:309px;
+	height:94px;
+	position:absolute;
+	left:398px;
+	top:495px;
+}.e2_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:311px;
+	height:92px;
+	position:absolute;
+	left:396px;
+	top:497px;
+	font-family:Inter;
+	text-align:center;
+	font-size:13.850000381469727px;
+	letter-spacing:0;
+}.e2_4 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:32px;
+	height:31px;
+	position:absolute;
+	left:364px;
+	top:245px;
+}.e2_5 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:29px;
+	height:34px;
+	position:absolute;
+	left:907px;
+	top:480px;
+}.e2_6 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:29px;
+	height:34px;
+	position:absolute;
+	left:371px;
+	top:477px;
+}.e2_7 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:29px;
+	height:34px;
+	position:absolute;
+	left:907px;
+	top:242px;
+}.e2_9 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:188px;
+	height:13px;
+	position:absolute;
+	left:399px;
+	top:609px;
+}.e2_10 { 
+	color:rgba(248.0000004172325, 163.00000548362732, 121.00000038743019, 1);
+	width:188px;
+	height:13px;
+	position:absolute;
+	left:399px;
+	top:609px;
+	font-family:Inter;
+	text-align:center;
+	font-size:11px;
+	letter-spacing:0;
+}.e2_11 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:323px;
+	height:94px;
+	position:absolute;
+	left:937px;
+	top:262px;
+}.e2_12 { 
+	color:rgba(0, 0, 0, 1);
+	width:327px;
+	height:98px;
+	position:absolute;
+	left:935px;
+	top:258px;
+	font-family:Inter;
+	text-align:left;
+	font-size:13.5px;
+	letter-spacing:0;
+}.e2_13 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:247px;
+	height:13px;
+	position:absolute;
+	left:938px;
+	top:374px;
+}.e2_14 { 
+	color:rgba(248.0000004172325, 163.00000548362732, 121.00000038743019, 1);
+	width:248px;
+	height:14px;
+	position:absolute;
+	left:937px;
+	top:374px;
+	font-family:Inter;
+	text-align:center;
+	font-size:11px;
+	letter-spacing:0;
+}.e2_16 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:322px;
+	height:91px;
+	position:absolute;
+	left:937px;
+	top:497px;
+}.e2_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:323px;
+	height:91px;
+	position:absolute;
+	left:939px;
+	top:495px;
+	font-family:Inter;
+	text-align:left;
+	font-size:13.5px;
+	letter-spacing:0;
+}.e2_19 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:158px;
+	height:12px;
+	position:absolute;
+	left:939px;
+	top:609px;
+}.e2_20 { 
+	color:rgba(248.0000004172325, 163.00000548362732, 121.00000038743019, 1);
+	width:168px;
+	height:13px;
+	position:absolute;
+	left:938px;
+	top:608px;
+	font-family:Inter;
+	text-align:left;
+	font-size:13.5px;
+	letter-spacing:0;
+}
